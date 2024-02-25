@@ -14,5 +14,7 @@ windows_data = Sg.Window("File Compressor", layout=[
     [options4]
 ])
 
+print("hi")
+
 windows_data.read()
 windows_data.close()
